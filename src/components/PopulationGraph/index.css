@@ -1,0 +1,37 @@
+.population-graph-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.population-graph-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.recharts-surface {
+  font-family: "Roboto", sans-serif;
+}
+
+.recharts-cartesian-axis-tick-value {
+  fill: #555;
+}
+
+.recharts-cartesian-axis-tick-line {
+  display: none;
+}
+
+.recharts-cartesian-grid line {
+  stroke: #eee;
+}
+
+.recharts-legend-wrapper {
+  margin-top: 20px;
+}
+
+.recharts-bar-rect {
+  fill: #82ca9d;
+}

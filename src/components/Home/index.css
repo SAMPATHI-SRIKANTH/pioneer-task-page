@@ -1,0 +1,16 @@
+.heading {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 20px;
+}
+.home-container {
+  padding-left: 30px;
+  position: relative;
+  left: 70px;
+}
+.home-container.change {
+  position: relative;
+  top: 0;
+  left: 250px;
+}
